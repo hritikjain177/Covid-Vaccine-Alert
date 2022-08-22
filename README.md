@@ -3,5 +3,5 @@
 
 
 
-# Previously used for Covid Vaccine Slot Alert
+## Previously used for Covid Vaccine Slot Alert
 ### Checks the slot availability on cowin app and alert the users if slots are available
